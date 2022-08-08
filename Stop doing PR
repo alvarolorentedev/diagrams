@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net" modified="2022-08-08T13:14:48.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36  " etag="VjzdIrCOmTJ2tYWcUVZy" version="20.2.3" type="github">
+  <diagram id="vxDGjh9Y2rbbdmyozJpr" name="Page-1">
+    <mxGraphModel dx="1379" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LHVBmQ4Gq_FH_c0J4tnA-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Code.svg;" parent="1" vertex="1">
+          <mxGeometry x="90" y="151" width="104" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LHVBmQ4Gq_FH_c0J4tnA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LHVBmQ4Gq_FH_c0J4tnA-6" target="LHVBmQ4Gq_FH_c0J4tnA-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LHVBmQ4Gq_FH_c0J4tnA-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-128.png" parent="1" vertex="1">
+          <mxGeometry x="310" y="310" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LHVBmQ4Gq_FH_c0J4tnA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="LHVBmQ4Gq_FH_c0J4tnA-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="194" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LHVBmQ4Gq_FH_c0J4tnA-8" value="Codebase" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="112" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LHVBmQ4Gq_FH_c0J4tnA-9" value="Malicious Actor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="594" y="258" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LHVBmQ4Gq_FH_c0J4tnA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LHVBmQ4Gq_FH_c0J4tnA-11" target="LHVBmQ4Gq_FH_c0J4tnA-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LHVBmQ4Gq_FH_c0J4tnA-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/octicons/1024/git-pull-request-128.png" parent="1" vertex="1">
+          <mxGeometry x="310" y="130" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LHVBmQ4Gq_FH_c0J4tnA-13" value="PR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LHVBmQ4Gq_FH_c0J4tnA-15" value="Reviewer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="344" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LHVBmQ4Gq_FH_c0J4tnA-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-128.png" parent="1" vertex="1">
+          <mxGeometry x="560" y="129.25" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LHVBmQ4Gq_FH_c0J4tnA-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/web-development-and-studio/512/112_Hat_Cap_Canada-128.png" parent="1" vertex="1">
+          <mxGeometry x="560" y="80" width="128" height="128" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
