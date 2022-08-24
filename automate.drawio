@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2022-08-24T19:14:45.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 " etag="MYEYZoj0iRWA7ebnCiJH" version="20.2.3" type="github">
+  <diagram id="ekStOwDgE_GgzQ1rSgG-" name="Page-1">
+    <mxGraphModel dx="739" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZG3dlptr40uVOuNM1YLx-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="135" width="560" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG3dlptr40uVOuNM1YLx-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://appforwin10.com/wp-content/uploads/2019/02/IFTTT-App-for-Windows-10.png;" parent="1" vertex="1">
+          <mxGeometry x="275" y="100" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG3dlptr40uVOuNM1YLx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZG3dlptr40uVOuNM1YLx-3" target="ZG3dlptr40uVOuNM1YLx-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG3dlptr40uVOuNM1YLx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZG3dlptr40uVOuNM1YLx-3" target="ZG3dlptr40uVOuNM1YLx-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG3dlptr40uVOuNM1YLx-20" value="Post" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZG3dlptr40uVOuNM1YLx-19" vertex="1" connectable="0">
+          <mxGeometry x="-0.5581" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZG3dlptr40uVOuNM1YLx-3" value="" style="image;image=img/lib/atlassian/Trello_Logo.svg;" parent="1" vertex="1">
+          <mxGeometry x="440" y="225" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG3dlptr40uVOuNM1YLx-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.it.miami.edu/_assets/images/O365_Flow.png;" parent="1" vertex="1">
+          <mxGeometry x="215" y="105" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG3dlptr40uVOuNM1YLx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZG3dlptr40uVOuNM1YLx-10" target="ZG3dlptr40uVOuNM1YLx-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="218" />
+              <mxPoint x="400" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZG3dlptr40uVOuNM1YLx-12" value="new release" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZG3dlptr40uVOuNM1YLx-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.2694" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZG3dlptr40uVOuNM1YLx-10" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" parent="1" vertex="1">
+          <mxGeometry x="207.5" y="180" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG3dlptr40uVOuNM1YLx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZG3dlptr40uVOuNM1YLx-3" target="ZG3dlptr40uVOuNM1YLx-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG3dlptr40uVOuNM1YLx-14" value="Scheduled media post" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZG3dlptr40uVOuNM1YLx-13" vertex="1" connectable="0">
+          <mxGeometry x="0.1779" relative="1" as="geometry">
+            <mxPoint x="10" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZG3dlptr40uVOuNM1YLx-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" parent="1" vertex="1">
+          <mxGeometry x="610" y="180" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZG3dlptr40uVOuNM1YLx-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_LinkedIn-128.png" parent="1" vertex="1">
+          <mxGeometry x="610" y="270" width="72.5" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="__t-viYO4imufuY67_KZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="__t-viYO4imufuY67_KZ-1" target="ZG3dlptr40uVOuNM1YLx-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="305" />
+              <mxPoint x="400" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__t-viYO4imufuY67_KZ-3" value="new post" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="__t-viYO4imufuY67_KZ-2">
+          <mxGeometry x="-0.2585" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="__t-viYO4imufuY67_KZ-1" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.rss;fillColor=#FDE532;gradientColor=#F4600D" vertex="1" parent="1">
+          <mxGeometry x="208" y="270" width="72" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
