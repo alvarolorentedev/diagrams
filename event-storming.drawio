@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T14:57:15.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36  " etag="XTPtfqq84x14Pk-5roXJ" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-12T07:57:56.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 " etag="vKz8udaJxsC2sO_COxNR" version="20.3.0" type="github" pages="2">
   <diagram id="AtYWghqInqU8W41oMeU8" name="initial">
-    <mxGraphModel dx="1622" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1848" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ltjhZGRiRAZDx3oG4LFS-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=4;fillColor=#FFFF66;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="90" as="sourcePoint" />
-            <mxPoint x="820" y="90" as="targetPoint" />
+            <mxPoint x="1240" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ltjhZGRiRAZDx3oG4LFS-7" value="Time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -31,46 +31,76 @@
         <mxCell id="ltjhZGRiRAZDx3oG4LFS-15" value="Read Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="420" y="10" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2CHt6bRqqWRJEDQmq2RW-1" value="Policy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="2CHt6bRqqWRJEDQmq2RW-1" value="Policy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="500" y="10" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Cme46fnXYHSA-qkdWMQt" name="Map Events">
-    <mxGraphModel dx="1379" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="739" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kw3Ypy1PHTpfGPapWVnm-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=4;fillColor=#FFFF66;strokeColor=#d6b656;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="90" as="sourcePoint" />
-            <mxPoint x="820" y="90" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kw3Ypy1PHTpfGPapWVnm-2" value="Time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kw3Ypy1PHTpfGPapWVnm-2" value="Time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="390" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kw3Ypy1PHTpfGPapWVnm-3" value="Event" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="kw3Ypy1PHTpfGPapWVnm-3" value="Event" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="20" y="10" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kw3Ypy1PHTpfGPapWVnm-4" value="Commands" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="kw3Ypy1PHTpfGPapWVnm-4" value="Commands" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="100" y="10" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kw3Ypy1PHTpfGPapWVnm-5" value="Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="kw3Ypy1PHTpfGPapWVnm-5" value="Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="260" y="10" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kw3Ypy1PHTpfGPapWVnm-6" value="Actor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="kw3Ypy1PHTpfGPapWVnm-6" value="Actor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="180" y="10" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kw3Ypy1PHTpfGPapWVnm-7" value="Aggregate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="kw3Ypy1PHTpfGPapWVnm-7" value="Aggregate" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="340" y="10" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kw3Ypy1PHTpfGPapWVnm-8" value="Read Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="kw3Ypy1PHTpfGPapWVnm-8" value="Read Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="420" y="10" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kw3Ypy1PHTpfGPapWVnm-9" value="Policy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="kw3Ypy1PHTpfGPapWVnm-9" value="Policy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="500" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TR_oNp1wnZX3JQbASFRe-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=4;fillColor=#FFFF66;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="90" as="sourcePoint" />
+            <mxPoint x="1240" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TR_oNp1wnZX3JQbASFRe-2" value="Account information Introduced" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TR_oNp1wnZX3JQbASFRe-3" value="Verify email sent&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="510" y="160" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TR_oNp1wnZX3JQbASFRe-4" value="New User Created" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TR_oNp1wnZX3JQbASFRe-5" value="Fill contract information&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TR_oNp1wnZX3JQbASFRe-6" value="Coverage check" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TR_oNp1wnZX3JQbASFRe-7" value="Address information introduced" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="5" y="160" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TR_oNp1wnZX3JQbASFRe-8" value="contact email sent" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="770" y="160" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TR_oNp1wnZX3JQbASFRe-9" value="contact digitally signed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="900" y="160" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TR_oNp1wnZX3JQbASFRe-10" value="Line enabled" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="160" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TR_oNp1wnZX3JQbASFRe-11" value="Hardware sent" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="160" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
