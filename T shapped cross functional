@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T11:01:58.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 " etag="g3EFFSUVAipJsJ_2E6WS" version="20.3.0" type="github"><diagram id="PO5YW-FdqP7NagNJTCIw" name="Page-1">ddHBEoIgEADQr+GOYlOdzfLSyUNnRjZhBl0GabS+Ph0kY6wLs7xdWGYhLG/Hi+VGXlGAJikVI2EnkqZ7dpzWGZ4esox6aKwSnpIVKvWCBUPZQwnoo0KHqJ0yMdbYdVC7yLi1OMRld9RxV8Mb2EBVc73VmxJOej3s6OolqEaGzgldMi0PxQv0kgscvogVhOUW0fmoHXPQ8+zCXPy585/s52EWOvfjwBSsd0+b6INY8QY=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-13T12:00:08.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 " etag="x2OqRO6h4lze3_YWvOA8" version="20.3.0" type="github">
+  <diagram id="PO5YW-FdqP7NagNJTCIw" name="Page-1">
+    <mxGraphModel dx="1344" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LAvRLNquulbMQYRAhJrc-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="130" width="670" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/user-pictures/100/matureman2-128.png" vertex="1" parent="1">
+          <mxGeometry x="230" y="170" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/user-pictures/100/maturewoman-3-128.png" vertex="1" parent="1">
+          <mxGeometry x="530" y="170" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-128.png" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-128.png" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-6" value="Quality Assurance Team" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="130" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="330" width="670" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/user-pictures/100/matureman2-128.png" vertex="1" parent="1">
+          <mxGeometry x="230" y="370" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/user-pictures/100/maturewoman-3-128.png" vertex="1" parent="1">
+          <mxGeometry x="530" y="370" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-128.png" vertex="1" parent="1">
+          <mxGeometry x="60" y="370" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-128.png" vertex="1" parent="1">
+          <mxGeometry x="380" y="370" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-12" value="Frontend Team" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="330" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="530" width="670" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/user-pictures/100/matureman2-128.png" vertex="1" parent="1">
+          <mxGeometry x="230" y="570" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/user-pictures/100/maturewoman-3-128.png" vertex="1" parent="1">
+          <mxGeometry x="530" y="570" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-128.png" vertex="1" parent="1">
+          <mxGeometry x="60" y="570" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-128.png" vertex="1" parent="1">
+          <mxGeometry x="380" y="570" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-18" value="Backend Team" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="530" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="730" width="670" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/user-pictures/100/matureman2-128.png" vertex="1" parent="1">
+          <mxGeometry x="230" y="770" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/user-pictures/100/maturewoman-3-128.png" vertex="1" parent="1">
+          <mxGeometry x="530" y="770" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-128.png" vertex="1" parent="1">
+          <mxGeometry x="60" y="770" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/female1-128.png" vertex="1" parent="1">
+          <mxGeometry x="380" y="770" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LAvRLNquulbMQYRAhJrc-24" value="Infrastructure Team" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="730" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
